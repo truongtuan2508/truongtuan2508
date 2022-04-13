@@ -10,7 +10,7 @@
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=truongtuan2508&show_icons=true&theme=dracula" alt="truongtuan2508 :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=truongtuan2508&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="truongtuan2508 :: Profile Stats" /></p>
 
 <!---
 truongtuan2508/truongtuan2508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
