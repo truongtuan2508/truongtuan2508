@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs :tongue: </h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=truongtuan2508&langs_count=10&theme=tokyonight&layout=compact" alt="truongtuan2508 :: Top Langs" /></p>
 
