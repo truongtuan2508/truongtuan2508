@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @truongtuan2508
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<h3 align="center">- 👋 Hi, I'm<a href="fb.com/100014192858608"> Truong Van Tuan</a> </h1>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truongtuan2508.visitor-badge&left_text=Visitors)
+
+
 
 <h4 align="center">Top langs :tongue: </h4>
 
