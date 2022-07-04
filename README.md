@@ -1,8 +1,6 @@
 
 <h3 align="center">- 👋 Hi, I'm<a href="https://www.facebook.com//100014192858608"> Truong Van Tuan</a> </h1>
-```markdown
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truongtuan2508.visitor-badge&left_text=Visitors)
-```
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truongtuan2508.visitor-badge&left_text=Visitors)
 
 
