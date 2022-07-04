@@ -10,7 +10,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=truongtuan2508&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="truongtuan2508 :: Profile Stats" /></p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truongtuan2508.visitor-badge&left_text=Visitors)
+<p align="center"> ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=truongtuan2508.visitor-badge&left_text=Visitors) </p>
 
 <!---
 truongtuan2508/truongtuan2508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
