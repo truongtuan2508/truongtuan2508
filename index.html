@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+          <meta charset="UTF-8" />
+          <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <link rel="stylesheet" href="./assets/css/grid.css" />
+          <link rel="stylesheet" href="./assets/css/style.css" />
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" />
+          <title>Document</title>
+     </head>
+     <body>
+          <div class="container">
+               <header class="header">
+                    <div class="header__logo">HIP<span>.</span></div>
+                    <div class="header__list">
+                         <ul class="header__list-menu">
+                              <li class="header__list-item"><a href="#about">About</a></li>
+                              <li class="header__list-item"><a href="#project">Portfolio</a></li>
+                              <li class="header__list-item"><a href="#">Resume</a></li>
+                              <li class="header__list-item"><a href="#contact">Contact Me</a></li>
+                         </ul>
+                         <div id="search" class="header__search">
+                              <i class="search-icon fa-solid fa-magnifying-glass"></i>
+                              <input type="text" name="" id="" placeholder="Search..." />
+                         </div>
+                    </div>
+               </header>
+               <div class="main">
+                    <div class="main-one">
+                         <h1>Hi! I am</h1>
+                         <span class="auto">Truong Van Tuan</span>
+                         <p>Updating...</p>
+                         <button>Hire Me</button>
+                    </div>
+                    <div class="main-two">
+                         <img src="./assets/images/4.png" alt="" />
+                    </div>
+               </div>
+               <section class="projects" id="project">
+                    <h1>My Awesome <br /><span>Projects</span></h1>
+                    <p>Updating...</p>
+                    <button class="button">Download CV</button>
+                    <div class="projects-div flex div-1">
+                         <img src="./assets/images/Projects/5.png" alt="" />
+                         <h3>Updating...</h3>
+                         <p>Updating...........</p>
+                         <button>Live Preview</button>
+                    </div>
+                    <div class="projects-div flex div-2">
+                         <img src="./assets/images/Projects/6.png" alt="" />
+                         <h3>Updating...</h3>
+                         <p>Updating...........</p>
+                         <button>Live Preview</button>
+                    </div>
+                    <div class="projects-div flex div-3">
+                         <img src="./assets/images/Projects/7.png" alt="" />
+                         <h3>Updating...</h3>
+                         <p>Updating...........</p>
+                         <button>Live Preview</button>
+                    </div>
+               </section>
+          </div>
+
+          <br /><br />
+          <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+          <script>
+               var typed = new Typed(".auto", {
+                    strings: ["Truong Van Tuan", "Web Developer", "ML Engineer"],
+                    typeSpeed: 60,
+                    backSpeed: 70,
+                    loop: true,
+               });
+          </script>
+     </body>
+</html>
